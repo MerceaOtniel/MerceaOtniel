@@ -1,5 +1,4 @@
 ### Hi there 👋
-<iframe src="https://stars.devunltd.com/badge.html?user=hodgef&repo=simple-keyboard&button=true&stargazers=true&theme=inline" frameborder="0" scrolling="0" width="250" height="50" title="Star on GitHub"></iframe>
 <!--
 **MerceaOtniel/MerceaOtniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
