@@ -8,8 +8,8 @@
 
 **Previously**:
 * Machine Learning Engineer at [Everseen](https://everseen.com/).
-* MSc in Artificial Intelligence from the [Univerisity of Edinburgh](https://www.ed.ac.uk/). 
-* BSc in Computers and Information Technology from [Politehnica Univeristy of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html).
+* MSc in Artificial Intelligence from the [Univerisity of Edinburgh](https://www.ed.ac.uk/). MSc thesis under the supervision of [Prof. Amos Storkey](https://www.bayeswatch.com/).
+* BSc in Computers and Information Technology from [Politehnica Univeristy of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html). BSc thesis under the supervision of [Prof. Calin-Adrian Popa](https://sites.google.com/site/popacalinadrian/).
 
 Most of my current work focuses on zero-shot audio-visual video classification.
 
