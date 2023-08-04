@@ -13,5 +13,5 @@
 
 Most of my current work focuses on zero-shot audio-visual video classification.
 
-You can find me on [Twitter](https://twitter.com/MerceaOtniel) or [LinkedIn](www.linkedin.com/in/otnielmercea) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=eSPY7nMAAAAJ&hl=en) and [Homepage](https://merceaotniel.github.io/)!
+You can find me on [Twitter](https://twitter.com/MerceaOtniel) or [LinkedIn](https://www.linkedin.com/in/otniel-bogdan-mercea-76b742125/) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=eSPY7nMAAAAJ&hl=en) and [Homepage](https://merceaotniel.github.io/)!
 
