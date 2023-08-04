@@ -1,16 +1,17 @@
-### Hi there 👋
-<!--
-**MerceaOtniel/MerceaOtniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Otniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerceaOtniel)](https://github.com/MerceaOtniel/github-readme-stats)
-Here are some ideas to get you started:
+### Hello there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Currently**:
+* [IMPRS-IS](https://imprs.is.mpg.de/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata) & [Andreas Geiger](https://www.cvlibs.net/).
+* Research Intern at [Google Research](https://research.google/teams/perception/), working with [Anurag Arnab](https://anuragarnab.github.io/) and [Cordelia Schmid](https://www.di.ens.fr/willow/people_webpages/cordelia/) on efficient adaptation of foundation models.  
+
+
+**Previously**:
+* Machine Learning Engineer at [Everseen](https://everseen.com/).
+* MSc in Artificial Intelligence from the [Univerisity of Edinburgh](https://www.ed.ac.uk/). 
+* BSc in Computers and Information Technology from [Politehnica Univeristy of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html).
+
+Most of my current work focuses on zero-shot audio-visual video classification.
+
+You can find me on [Twitter](https://twitter.com/MerceaOtniel) or [LinkedIn](www.linkedin.com/in/otnielmercea) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=eSPY7nMAAAAJ&hl=en) and [Homepage](https://merceaotniel.github.io/)!
 
