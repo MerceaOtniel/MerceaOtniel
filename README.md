@@ -3,7 +3,7 @@
 
 **Currently**:
 * [IMPRS-IS](https://imprs.is.mpg.de/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata) & [Prof. Andreas Geiger](https://www.cvlibs.net/).
-* Research Intern at [Google Research](https://research.google/teams/perception/), working with [Anurag Arnab](https://anuragarnab.github.io/) and [Cordelia Schmid](https://www.di.ens.fr/willow/people_webpages/cordelia/) on efficient adaptation of foundation models.  
+* Research Intern at [Google Research](https://research.google/teams/perception/), working with [Anurag Arnab](https://anuragarnab.github.io/), [Alexey Gritsenko](https://scholar.google.nl/citations?user=zTy9cUwAAAAJ&hl=en) and [Cordelia Schmid](https://www.di.ens.fr/willow/people_webpages/cordelia/) on efficient adaptation of foundation models.  
 
 
 **Previously**:
