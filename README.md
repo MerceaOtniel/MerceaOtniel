@@ -3,7 +3,7 @@
 
 **Currently**:
 * Student Researcher at [Google Research](https://research.google/teams/perception/), continuing to work with [Anurag Arnab](https://anuragarnab.github.io/), [Alexey Gritsenko](https://scholar.google.nl/citations?user=zTy9cUwAAAAJ&hl=en) and [Cordelia Schmid](https://www.di.ens.fr/willow/people_webpages/cordelia/) on efficient adaptation of large-scale models.  
-* [IMPRS-IS](https://imprs.is.mpg.de/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata) & [Prof. Andreas Geiger](https://www.cvlibs.net/).
+* [International Max Planck Research School for Intelligent Systems(IMPRS-IS)](https://imprs.is.mpg.de/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata) & [Prof. Andreas Geiger](https://www.cvlibs.net/).
 * Guest PhD Student at [Helmholtz Munich](https://www.helmholtz-munich.de/en) , conducting research under the supervision of Prof. Zeynep Akata, as part of my PhD project at IMPRS-IS.
 
 
