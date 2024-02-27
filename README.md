@@ -12,8 +12,8 @@
 **Previously**:
 * Research Intern at [Google Research](https://research.google/teams/perception/), working with [Anurag Arnab](https://anuragarnab.github.io/), [Alexey Gritsenko](https://scholar.google.nl/citations?user=zTy9cUwAAAAJ&hl=en) and [Cordelia Schmid](https://www.di.ens.fr/willow/people_webpages/cordelia/) on efficient adaptation of large-scale models.  
 * Machine Learning Engineer at [Everseen](https://everseen.com/) where I worked in the area of real-time multi-camera tracking.
-* MSc in Artificial Intelligence with Distinction from the [University of Edinburgh](https://www.ed.ac.uk/). MSc thesis done under the supervision of [Prof. Amos Storkey](https://www.bayeswatch.com/).
-* BEng in Computers and Information Technology from [Politehnica University of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html). BEng thesis done under the supervision of [Prof. Calin-Adrian Popa](https://sites.google.com/site/popacalinadrian/).
+* MSc in Artificial Intelligence with Distinction from the [University of Edinburgh](https://www.ed.ac.uk/). MSc thesis supervised by [Prof. Amos Storkey](https://www.bayeswatch.com/).
+* BEng in Computers and Information Technology from [Politehnica University of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html). BEng thesis supervised by [Prof. Calin-Adrian Popa](https://sites.google.com/site/popacalinadrian/).
 
 Most of my current work focuses on multi-modal efficient learning.
 
