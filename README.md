@@ -15,7 +15,7 @@
 * MSc in Artificial Intelligence with Distinction from the [University of Edinburgh](https://www.ed.ac.uk/). MSc thesis done under the supervision of [Prof. Amos Storkey](https://www.bayeswatch.com/).
 * BEng in Computers and Information Technology from [Politehnica Univeristy of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html). BEng thesis done under the supervision of [Prof. Calin-Adrian Popa](https://sites.google.com/site/popacalinadrian/).
 
-Most of my current work focuses on low-shot audio-visual video classification.
+Most of my current work focuses on multi-modal efficient learning.
 
 You can find me on [Twitter](https://twitter.com/MerceaOtniel) or [LinkedIn](https://www.linkedin.com/in/otniel-bogdan-mercea-76b742125/) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=eSPY7nMAAAAJ&hl=en) and [Homepage](https://merceaotniel.github.io/)!
 
