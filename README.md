@@ -4,7 +4,7 @@
 **Currently**:
 
 * Computer Science PhD Student at [International Max Planck Research School for Intelligent Systems(IMPRS-IS)](https://imprs.is.mpg.de/), part of the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ&hl=en) & [Prof. Andreas Geiger](https://scholar.google.ca/citations?user=SrVnrPcAAAAJ&hl=en).
-* Guest PhD Student at [Helmholtz Munich](https://www.helmholtz-munich.de/en), conducting research under the supervision of Prof. Zeynep Akata, as part of my PhD project at IMPRS-IS.
+* Guest PhD Student at [Helmholtz Munich](https://www.helmholtz-munich.de/en) and [Technical University of Munich](https://www.tum.de/en/), conducting research in multi-modal learning under the supervision of Prof. Zeynep Akata, as part of my PhD project at IMPRS-IS.
 * I am an incoming Research Intern at [Google DeepMind](https://deepmind.google/), starting in September.
 
 
