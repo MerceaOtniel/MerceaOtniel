@@ -8,7 +8,7 @@
 
 **Educational background**
 
-* Computer Science PhD Student at [International Max Planck Research School for Intelligent Systems(IMPRS-IS)](https://imprs.is.mpg.de/), part of the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ&hl=en) & [Prof. Andreas Geiger](https://scholar.google.ca/citations?user=SrVnrPcAAAAJ&hl=en).
+* Computer Science PhD Student at [International Max Planck Research School for Intelligent Systems(IMPRS-IS)](https://imprs.is.mpg.de/), part of the [Explainable Machine Learning Group](https://www.eml-unitue.de/). Supervisors: [Prof. Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ&hl=en) & [Prof. Andreas Geiger](https://scholar.google.ca/citations?user=SrVnrPcAAAAJ&hl=en). **Thesis yet to be submitted**.
 * Guest PhD Student at [Helmholtz Munich](https://www.helmholtz-munich.de/en) and [Technical University of Munich](https://www.tum.de/en/), conducting research in multi-modal learning under the supervision of Prof. Zeynep Akata as part of my PhD.
 * MSc in Artificial Intelligence from the [University of Edinburgh](https://www.ed.ac.uk/). MSc thesis supervised by [Prof. Amos Storkey](https://www.bayeswatch.com/).
 * BEng in Computers and Information Technology from [Politehnica University of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html). BEng thesis supervised by [Prof. Calin-Adrian Popa](https://sites.google.com/site/popacalinadrian/).
