@@ -3,7 +3,7 @@
 
 **Currently**:
 
-* Incoming Research Intern at [Google DeepMind](https://deepmind.google/), starting September 2024.
+* Research Intern at [Google DeepMind](https://deepmind.google/), since September 2024.
 
 
 **Educational background**
