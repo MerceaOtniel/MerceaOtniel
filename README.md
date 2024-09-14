@@ -3,7 +3,7 @@
 
 **Currently**:
 
-* Research Intern at [Google DeepMind](https://deepmind.google/) in Zürich, since September 2024. Working on video segmentation, being supervised by Stefano Pellegrini and [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en).
+* Research Intern at [Google DeepMind](https://deepmind.google/) in Zürich, since September 2024. Working on video segmentation, being supervised by Stefano Pellegrini, [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en).
 
 
 **Educational background**
