@@ -1,19 +1,19 @@
 ### Hello there 👋
 
-🔬 **Current Role**:
+🧠 **Current Role**:
 
- - 🌟Research Intern at [Google DeepMind](https://deepmind.google/) working on video segmentation 🇨🇭
+ - 🔬Research Intern at [Google DeepMind](https://deepmind.google/) working on video segmentation 🇨🇭
  
  - 👩‍🏫 Supervised by Stefano Pellegrini, [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
 
 
-🖥️ **Previous Experience**:
+📚 **Previous Experience**:
 
 - 🔬 Research Intern & Student Researcher at [Google Research](https://research.google/teams/perception/) working on efficient adaptation of lare-scale models 🇫🇷
   - 👩‍🏫 Supervised by [Anurag Arnab](https://scholar.google.com/citations?user=l2FS2_IAAAAJ&hl=en), [Alexey Gritsenko](https://scholar.google.nl/citations?user=zTy9cUwAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
   - 🤝 Collaborated with [Aleksandra Nowak](https://scholar.google.com/citations?user=2A-eZhQAAAAJ&hl=pl), [Utku Evci](https://scholar.google.com/citations?user=8yGMMwcAAAAJ&hl=en), and [Yann Dauphin](https://scholar.google.com/citations?user=XSforroAAAAJ&hl=en) from [Google DeepMind](https://deepmind.google/) on a related project.
 
- - 🧠 Machine Learning Researcher at [Everseen](https://everseen.com/) working on tracking and re-identification 🇷🇴
+ - 🔬 Machine Learning Researcher at [Everseen](https://everseen.com/) working on tracking and re-identification 🇷🇴
 
 🎓 **Education**: 
 - 🎓 [IMPRS-IS](https://imprs.is.mpg.de/) Computer Science PhD Student in the [Explainable Machine Learning Group](https://www.eml-unitue.de/) in Munich, with a guest 
