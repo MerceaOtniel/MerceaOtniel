@@ -7,7 +7,7 @@
  - 👩‍🏫 Supervised by Stefano Pellegrini, [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
 
 
-📚 **Previous Experience**:
+💼 **Previous Experience**:
 
 - 🔬 Research Intern & Student Researcher at [Google Research](https://research.google/teams/perception/) working on efficient adaptation of lare-scale models 🇫🇷
   - 👩‍🏫 Supervised by [Anurag Arnab](https://scholar.google.com/citations?user=l2FS2_IAAAAJ&hl=en), [Alexey Gritsenko](https://scholar.google.nl/citations?user=zTy9cUwAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
