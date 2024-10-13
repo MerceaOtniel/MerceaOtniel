@@ -2,7 +2,7 @@
 
 🔬 **Current Role**:
 
- - 🌟Research Intern at [Google DeepMind](https://deepmind.google/) working on video segmentation. 🇨🇭
+ - 🌟Research Intern at [Google DeepMind](https://deepmind.google/) working on video segmentation 🇨🇭
  
  - 👩‍🏫 Supervised by Stefano Pellegrini, [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
 
