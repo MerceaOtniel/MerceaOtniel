@@ -24,6 +24,6 @@ I am currently seeking a research scientist role in the field of Artificial Inte
  - 💻 BEng in Computers and Information Technology from [Politehnica University of Timisoara](https://www.upt.ro/Universitatea-Politehnica-Timisoara_en.html)🇷🇴. BEng thesis supervised by [Prof. Calin-Adrian Popa](https://scholar.google.ro/citations?user=U6prQIkAAAAJ&hl=en)
 
 ⚡ **Research Focus**:
-Enhancing the efficiency of deep learning systems, with a focus on data-efficient (low-shot learning) and model-efficient (efficient adaptation) methods. Also experienced in multimodal learning (audio-visual) and multi-modal large language models.
+Focused on improving deep learning efficiency through data-efficient (low-shot) and model-efficient methods (efficient adaptation). Experienced in multimodal learning (audio-visual), multi-modal large language models, video semantic segmentation, and tracking.
 
 You can find me on [Twitter](https://twitter.com/MerceaOtniel) or [LinkedIn](https://www.linkedin.com/in/otniel-bogdan-mercea-76b742125/) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=eSPY7nMAAAAJ&hl=en) and [Homepage](https://merceaotniel.github.io/)!
