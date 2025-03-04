@@ -1,9 +1,5 @@
 ### Hello there 👋
 
-🧠 **Current Role**:
-
-I am currently seeking a research scientist role in the field of Artificial Intelligence. Please feel free to reach out if you have a position that aligns with my expertise.
-
 
 💼 **Previous Experience**:
  - 🔬Research Intern at [Google DeepMind](https://deepmind.google/) working on video segmentation🇨🇭. Supervised by Stefano Pellegrini, [Jasper Uijlings](https://scholar.google.it/citations?user=jInmtEkAAAAJ&hl=en), and [Cordelia Schmid](https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en)
