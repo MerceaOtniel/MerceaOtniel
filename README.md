@@ -12,6 +12,7 @@
 🎓 **Education**: 
 - 🎓 [IMPRS-IS](https://imprs.is.mpg.de/) Computer Science PhD Student in the [Explainable Machine Learning Group](https://www.eml-unitue.de/) in Munich, with a guest 
  affiliation at [Helmholtz Munich](https://www.helmholtz-munich.de/en) & the [Technical University of Munich](https://www.tum.de/en/)🇩🇪. Supervised by [Prof. Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ&hl=en) & [Prof. Andreas Geiger](https://scholar.google.ca/citations?user=SrVnrPcAAAAJ&hl=en).
+  - Examination committee: [Prof. Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ&hl=en) (TUM & Helmholtz Munich), [Prof. Andreas Geiger](https://scholar.google.ca/citations?user=SrVnrPcAAAAJ&hl=en) (University of Tübingen), [Prof. Justus Thies](https://scholar.google.de/citations?user=4vpQvuwAAAAJ&hl=de) (TU Darmstadt), [Prof. Hildegard Kühne](https://scholar.google.com/citations?user=pxhCcH0AAAAJ) (University of Tübingen & MIT-IBM Watson AI Lab).
     
 
  - 🤖 MSc in Artificial Intelligence from the [University of Edinburgh](https://www.ed.ac.uk/)🇬🇧. MSc thesis supervised by [Prof. Amos Storkey](https://scholar.google.com/citations?user=3Rlc8EAAAAAJ&hl=en).
