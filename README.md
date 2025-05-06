@@ -1,7 +1,7 @@
 ### Hello there 👋
 **Current**:
 
-Computer Vision Applied Research Scientist at Apple🇪🇸.
+ - 🔬Computer Vision Applied Research Scientist at Apple🇪🇸.
 
 
 💼 **Previous Experience**:
