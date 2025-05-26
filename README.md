@@ -1,7 +1,7 @@
 ### Hello there 👋
 **Current**:
 
- - 🔬Machine Learning Researcher at [Apple](https://www.apple.com/careers/uk/teams/software-and-services.html)🇪🇸.
+ - 🔬Machine Learning Researcher at [Apple](https://www.apple.com/careers/uk/teams/software-and-services.html), working on multimodal learning 🇪🇸.
 
 
 💼 **Previous Experience**:
